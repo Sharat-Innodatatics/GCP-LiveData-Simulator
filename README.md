@@ -1,6 +1,6 @@
 # Live Streaming Data Simulator Code for GCP training
 
-This project contains the code necessary to setup a Google Cloud Compute Engine VM with a data simulation script in order to demonstrate how Google Cloud IoT Core works. The instructions below provide the gcloud commands which are parallel to the Cloud Console UI instructions that are given in the Codelab. Reference from Google 
+This project contains the code necessary to setup a Google Cloud Compute Engine VM with a data simulation script in order to demonstrate how Google Cloud IoT Core works. The instructions below provide the gcloud commands which are parallel to the Cloud Console UI instructions that are given in the Codelab. Reference: Google Cloud code labs
 
 ## Data Simulation Quickstart
 
